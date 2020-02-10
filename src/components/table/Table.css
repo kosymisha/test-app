@@ -1,0 +1,17 @@
+table {
+    margin-top: 50px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#id {
+    width: 75px;
+}
+
+#name {
+    width: 175px;
+}
+
+#price {
+    width: 100px;
+}
